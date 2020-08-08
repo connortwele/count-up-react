@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/count-up-react/static/css/main.8e7e5225.chunk.css",
+    "main.js": "/count-up-react/static/js/main.b6314659.chunk.js",
+    "main.js.map": "/count-up-react/static/js/main.b6314659.chunk.js.map",
+    "runtime-main.js": "/count-up-react/static/js/runtime-main.aadc17df.js",
+    "runtime-main.js.map": "/count-up-react/static/js/runtime-main.aadc17df.js.map",
+    "static/js/2.7d44fefa.chunk.js": "/count-up-react/static/js/2.7d44fefa.chunk.js",
+    "static/js/2.7d44fefa.chunk.js.map": "/count-up-react/static/js/2.7d44fefa.chunk.js.map",
+    "index.html": "/count-up-react/index.html",
+    "precache-manifest.8f185e0a6ff55d285f3ce904496f30c6.js": "/count-up-react/precache-manifest.8f185e0a6ff55d285f3ce904496f30c6.js",
+    "service-worker.js": "/count-up-react/service-worker.js",
+    "static/css/main.8e7e5225.chunk.css.map": "/count-up-react/static/css/main.8e7e5225.chunk.css.map",
+    "static/js/2.7d44fefa.chunk.js.LICENSE.txt": "/count-up-react/static/js/2.7d44fefa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aadc17df.js",
+    "static/js/2.7d44fefa.chunk.js",
+    "static/css/main.8e7e5225.chunk.css",
+    "static/js/main.b6314659.chunk.js"
+  ]
+}
